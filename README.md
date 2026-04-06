@@ -2,6 +2,16 @@
 
 A feature-rich, beautifully designed Pomodoro timer tailored for focus and spiritual mindfulness. This application is contained entirely within a single HTML file and seamlessly integrates productivity tools with Islamic daily routines, such as Al-Quran playback and automated prayer time alerts.
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="ss1.png" width="30%" alt="Main Timer Phase">
+  &nbsp; &nbsp;
+  <img src="ss2.png" width="30%" alt="Al-Quran Player & Adzan">
+  &nbsp; &nbsp;
+  <img src="ss3.png" width="30%" alt="Mindful Break Animation">
+</p>
+
 ## ✨ Key Features
 
 * **Customizable Pomodoro Timer:** Set your preferred Study Time, Break Time, and Number of Cycles.
@@ -20,7 +30,7 @@ A feature-rich, beautifully designed Pomodoro timer tailored for focus and spiri
 This project requires no installation, dependencies, or backend server. 
 
 1. Download or clone this repository.
-2. Open the `.html` file directly in any modern web browser (Chrome, Firefox, Edge, Safari).
+2. Open the `index.html` file directly in any modern web browser (Chrome, Firefox, Edge, Safari).
 3. **Location Permission:** Upon first load, the app will ask for location access to provide accurate prayer times. You can grant access, enter your city manually, or use the default location.
 
 ## ⌨️ Keyboard Shortcuts
